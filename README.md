@@ -1,16 +1,61 @@
-## Hi there 👋
+# Douglas Alves ☕
 
-<!--
-**d3v-alves/d3v-alves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```java
+public class Developer {
 
-Here are some ideas to get you started:
+    private final String focus = "Java Backend";
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    public boolean keepsLearning() {
+        return true;
+    }
+
+}
+```
+
+## Sobre
+
+Atualmente estudo Análise e Desenvolvimento de Sistemas e concentro meus estudos em desenvolvimento Back-end com Java.
+
+Este perfil funciona como um registro da minha evolução: projetos acadêmicos, experimentos, estudos e aplicações desenvolvidas ao longo da jornada.
+
+---
+
+## Atualmente estudando
+
+```text
+☕ Java
+🌱 Spring Boot
+🗄️ SQL
+🔧 Git e GitHub
+📚 Engenharia de Software
+🇺🇸 Inglês
+```
+
+---
+
+## Construindo
+
+```text
+├── APIs REST
+├── Aplicações Back-end
+├── Projetos acadêmicos
+└── Projetos pessoais
+```
+
+---
+
+## Objetivo atual
+
+Transformar conhecimento teórico em projetos cada vez mais próximos de aplicações reais.
+
+---
+
+## Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d3v-alves\&show_icons=true\&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3v-alves\&layout=compact\&theme=github_dark)
+
+---
+
+> Aprendendo um commit por vez.
