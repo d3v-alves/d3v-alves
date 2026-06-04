@@ -12,50 +12,47 @@ public class Developer {
 }
 ```
 
-## Sobre
+## Terminal
 
-Atualmente estudo Análise e Desenvolvimento de Sistemas e concentro meus estudos em desenvolvimento Back-end com Java.
+```bash
+$ whoami
 
-Este perfil funciona como um registro da minha evolução: projetos acadêmicos, experimentos, estudos e aplicações desenvolvidas ao longo da jornada.
+Douglas Alves
 
----
+$ foco
 
-## Atualmente estudando
+Java Backend
 
-```text
-☕ Java
-🌱 Spring Boot
-🗄️ SQL
-🔧 Git e GitHub
-📚 Engenharia de Software
-🇺🇸 Inglês
+$ estudando
+
+Spring Boot
+SQL
+Git
+Inglês
+
+$ construindo
+
+APIs REST
+Projetos acadêmicos
+Aplicações Java
 ```
 
----
+## Projetos em destaque
 
-## Construindo
+🔹 Sistema de Gestão de Clientes
 
-```text
-├── APIs REST
-├── Aplicações Back-end
-├── Projetos acadêmicos
-└── Projetos pessoais
-```
+🔹 API REST com Spring Boot
 
----
+🔹 Projetos acadêmicos
 
-## Objetivo atual
-
-Transformar conhecimento teórico em projetos cada vez mais próximos de aplicações reais.
+🔹 Experimentos pessoais
 
 ---
 
 ## Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d3v-alves\&show_icons=true\&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d3v-alves&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3v-alves\&layout=compact\&theme=github_dark)
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3v-alves&layout=compact&theme=github_dark)
 
 > Aprendendo um commit por vez.
