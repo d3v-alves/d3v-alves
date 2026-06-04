@@ -36,10 +36,6 @@ Aplicações Java
 ```
 ## Projetos em destaque
 
-🔹 Sistema de Gestão de Clientes
-
-🔹 API REST com Spring Boot
-
 🔹 Projetos acadêmicos
 
 🔹 Experimentos pessoais
