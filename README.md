@@ -4,8 +4,8 @@
 public class Douglas {
 
     private final String focus = "Java Backend Development";
-    private final String location = "Goiânia, Brazil";
-    private final String postgrad = "AI/ML (in progress)";
+    private final String location = "Goiânia, Brasil";
+    private final String postgrad = "AI/ML";
 
     public boolean keepsLearning() {
         return true;
@@ -21,7 +21,7 @@ public class Douglas {
 
 ```bash
 $ whoami
-Douglas Alves — recent ADS graduate, self-taught Java dev
+Douglas Alves — recently graduated in Systems Analysis and Development and currently studying AI and ML at UTFPR.
 
 $ background
 Technical support & hardware/software maintenance
